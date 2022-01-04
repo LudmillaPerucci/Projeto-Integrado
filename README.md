@@ -6,7 +6,7 @@
 
 - Iniciado no 1° semestre de 2021 com a participação de alunos da Fatec Guarulhos do curso de Análise e Desenvolvimento de Sistemas - (Turma do 2° semestre de 2020).
 
-## 🛠 Tecnologias utilizadas:
+## 🛠 Tecnologias utilizadas 💻:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
